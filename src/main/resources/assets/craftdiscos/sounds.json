@@ -1,0 +1,27 @@
+{
+  "herobrine": {
+    "sounds": [
+      {
+        "name": "craftdiscos:herobrine",
+        "stream": true
+      }
+    ]
+  },
+  "desconhecido": {
+    "sounds": [
+      {
+        "name": "craftdiscos:desconhecido",
+        "stream": true
+      }
+    ]
+  },
+  "meme": {
+    "sounds": [
+      {
+        "name": "craftdiscos:meme",
+        "stream": true
+      }
+    ]
+  }
+}
+

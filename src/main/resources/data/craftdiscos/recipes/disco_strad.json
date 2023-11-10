@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W"
+  ],
+  "key": {
+    "#": {
+      "item": "craftdiscos:base_disco"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_strad",
+    "count": 1
+  }
+}

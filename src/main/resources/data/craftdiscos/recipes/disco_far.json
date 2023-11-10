@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G",
+    "L "
+  ],
+  "key": {
+    "#": {
+      "item": "craftdiscos:base_disco"
+    },
+    "G": {
+      "item": "minecraft:green_dye"
+    },
+    "L": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_far",
+    "count": 1
+  }
+}

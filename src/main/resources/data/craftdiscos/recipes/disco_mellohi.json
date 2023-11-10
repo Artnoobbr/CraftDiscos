@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W",
+    "P "
+  ],
+  "key": {
+    "#": {
+      "item": "craftdiscos:base_disco"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    },
+    "P": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_mellohi",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "item.craftdiscos.base_disco": "Base disco",
+  "item.craftdiscos.herobrine_music_disc": "§cHerobrine",
+  "item.craftdiscos.herobrine_music_disc.desc": "Musica medo do Herobrine",
+  "item.craftdiscos.desconhecido_music_disc": "§fDesconhecido",
+  "item.craftdiscos.desconhecido_music_disc.desc": "Musica muito antiga e desconhecida",
+  "item.craftdiscos.meme_music_disc": "§lMeme",
+   "item.craftdiscos.meme_music_disc.desc": "Algum audio meme",
+
+  "itemGroup.CraftDiscosTab": "CraftDiscos"
+}

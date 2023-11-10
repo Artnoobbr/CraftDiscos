@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftdiscos:herobrine_music_disc"
+    },
+    "title": "A lenda do disco",
+    "description": "Faça o disco do Herobrine",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "craftdiscos:base_disco",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "craftdiscos:herobrine_music_disc"
+          }
+        ]
+      }
+    }
+  }
+}

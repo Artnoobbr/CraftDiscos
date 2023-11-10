@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L"
+  ],
+  "key": {
+    "#": {
+      "item": "craftdiscos:base_disco"
+    },
+    "L": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_ward",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "B": {
+      "item": "craftdiscos:base_disco"
+    }
+  },
+  "result": {
+    "item": "craftdiscos:desconhecido_music_disc",
+    "count": 1
+  }
+}

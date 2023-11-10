@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P"
+  ],
+  "key": {
+    "#": {
+      "item": "craftdiscos:base_disco"
+    },
+    "P": {
+      "item": "minecraft:pink_terracotta"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_blocks",
+    "count": 1
+  }
+}

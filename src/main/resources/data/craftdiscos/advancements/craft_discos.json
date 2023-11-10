@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftdiscos:base_disco"
+    },
+    "title": "CraftDiscos",
+    "description": "O som belo das musicas",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "background": "craftdiscos:textures/block/grass_block_side.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "craftdiscos:base_disco"
+          }
+        ]
+      }
+    }
+  }
+}
